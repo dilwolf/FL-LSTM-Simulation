@@ -1,4 +1,4 @@
-# Federated Learning LSTM Model Training
+# Federtaed LSTM Model Training on the custom dataset
 
 This repository demonstrates a simulation of the training process of an LSTM model using Federated Learning (FL) on a custom dataset. 
 
